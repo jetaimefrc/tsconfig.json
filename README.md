@@ -1,3 +1,3 @@
 # tsconfig.json
 
-To help copy faster
+To help copying faster 😂
