@@ -7,7 +7,7 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "nhattq",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
